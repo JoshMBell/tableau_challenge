@@ -1,0 +1,15 @@
+NY Citi Bike Analysis:
+
+Membership Statistics: 
+In this visualisation we can see that over the period from 2021 to 2023, the number of total users has consistently been growing, with people possessing memberships making up a majority. The proportion of membership to non-membership rides has also been consistently growing over this period. 
+There is also a significant distance in the type of bike people tend to use when looking at the 10 busiest stations, when looking at membership status, with members being more likely than non-members to use the classic bike option. This may be because members tend to prefer the experience of riding for health/fitness reasons, rather than for convenience. 
+
+Usage Analysis:
+As one would expect, many member rides tend to be situated around business hours, suggesting that people tend to prefer memberships when they have a regular commute, so that it can become part of a routine. 
+Casual riders may also be made up of a younger demographic, as the majority of rides tend to be made up between 3PM and 5PM, suggesting use by students. 
+Generally casual users tend to travel longer distances than members, this is true for all bike types. This is likely due to people tending to be opportunistic about when they use the bikes, where if a non-member has a long distance to travel, they may opt to use a bike rather than another means of transportation. 
+Members on the other hand tend to prefer regularity and routine rather than factoring in distance to the same extent. 
+
+Spatial Analysis:
+There is very minimal difference in the count of bikes taken from each station at the start and end of a trip. This may be partially due to the large member user base, where people are likely taking the bikes to work or their required destination, and then returning it back to the same station at the end of the day.
+As would be expected the bike usage is clustered around the major comercial district areas, suggesting a large portion of the usage is related to travel to and from places of employement.
